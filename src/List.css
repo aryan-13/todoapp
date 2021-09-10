@@ -1,0 +1,12 @@
+.list {
+	height: 100px;
+	/* background-color: red; */
+	width: 450px;
+	margin: 10px;
+	text-align: left;
+	padding-left: 20px;
+}
+.flex-row {
+	display: flex;
+	justify-content: space-between;
+}
